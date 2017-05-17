@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Oct 06 23:22:26 EST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Mandelbrot-Seq.jar
+manifest.mergeall=true
+manifest.mainclass=Parallel.Mandelbrot
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|mpi.jar>;<jar|mpiExp.jar>;<jar|mpjbuf.jar>;<jar|commons-cli-1.2.jar>;<jar|commons-codec-1.8.jar>;<jar|commons-io-2.4.jar>;<jar|daemon.jar>;<jar|daemonmanager.jar>;<jar|hybdev.jar>;<jar|javax.servlet.jar>;<jar|loader1.jar>;<jar|loader2.jar>;<jar|log4j-1.2.11.jar>;<jar|mpj.jar>;<jar|mpjdev.jar>;<jar|mxdev.jar>;<jar|niodev.jar>;<jar|runtimecommon.jar>;<jar|smpdev.jar>;<jar|starter.jar>;<jar|tools.jar>;<jar|xdev.jar>;<jar|json_simple-1.1.jar>
+includes=
